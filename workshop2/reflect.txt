@@ -1,0 +1,16 @@
+/*
+    ==================================================
+    Workshop 02 : OOP345ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121216
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+
+*The move operation is quicker than the copy operation because when we copy data, we must transfer the entire contents of the memory, which takes time, whereas when we move data, only the reference to the data is moved to a different object. 
+*To read the files the ifstream is used and further getline() is used to add data in the dynamic array.
+*steady_clock:
+Gives the current tip point's value.
+It is a monotonic clock, and you cannot change its time like you can with a system clock.
+Additionally, the interval between ticks is constant. 

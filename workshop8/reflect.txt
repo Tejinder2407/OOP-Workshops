@@ -1,0 +1,16 @@
+/*
+    ==================================================
+    Workshop 08: OOP435ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121216
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+
+I gained knowledge about using smart pointers from this workshop.
+In this workshop, it was necessary to join two lists and utilise a smart pointer to make sure that memory is deallocated in the event of an exception.
+
+
+The benefit offered by smart pointer syntax.
+To reinforce your reasoning, use an example from your code.

@@ -1,0 +1,15 @@
+/*
+    ==================================================
+    Workshop 05: OOP435ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121216
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+
+In this workshop i got to learn about how to create exeptions and use them within code, i used it in constructor of SpellChecker class where exception is used. 
+I also  learnt about Lambda expressions. When the functionality offered by the lambda is straightforward and can be stated in a single expression, a lambda expression is generally employed. 
+Both the Movie and  Book class members had  default constructors. It shouldn't be like this
+Removed because no arguments are passed in the array, so the standard constructor is used to create an array of objects 
+Creation.

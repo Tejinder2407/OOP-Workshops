@@ -1,0 +1,21 @@
+/*
+    ==================================================
+    Workshop 07: OOP435ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121216
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+
+I've learned a lot about algorithms and standard libraries from this workshop.
+
+Algorithms are one of the crucial topics identified in the course that call for further practise, and I've always wanted to learn them.
+
+STL algorithms are effective because they do the desired task faster.
+
+Algorithms are replaceable ,  because loops are so concentrated, they are difficult to change once in place.
+
+In my perspective, it also makes the code easier to read and less convoluted.
+I now know how to transfer the data from the file and put it in a container that is sequential.
+To compile the data values from the file, I utilised the numeric library.

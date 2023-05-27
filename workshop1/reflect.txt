@@ -1,0 +1,9 @@
+Tejinder SIngh
+129121216
+ktejinder-singh@mysenca.ca
+OOP345-ZCC
+
+In this workshop, I learnt about internal and external linkage and also about static variables. In second part, I used destructor, copy constructor and copy assignment operator because I used the pointer to store the 'brand' of the vehicle. I used the counter variable to store how many times the function is called. For this, I declared the counter variable by using the word static. External linkage is used to use a single variable from different .cpp files. Internal linkage hides the variable from other files and can be used in only that file. I used destructor to prevent the memory leaks by deallocating the memory allocated to 'brand'. Copy constructor and copy assignment operators were used to implement deep copying. I found this workshop really interesting and learnt a lot. I did not face any major issue in this workshop.
+
+
+

@@ -1,0 +1,17 @@
+/*
+    ==================================================
+    Workshop 03: OOP435ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121216
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+
+This work shop was quite tricky for me and i got to learn a new concept called templates there were mant things to learn like using template class variables, instantiate a template class, designing a temlate class and many more including these. 
+ 
+
+-There were few things to notice as templates were not used as othere functions in which we can easily use them in cpp and header file but they were used in a single header file which is is useful when compling the code it shows the best possible out come.
+
+
+*From the Queue class, I  created a templated class called UniqueQueue, which is a Queue made up entirely of unique items. 

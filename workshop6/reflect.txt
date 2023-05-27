@@ -1,0 +1,19 @@
+
+/*
+    ==================================================
+    Workshop 06: OOP345ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121219
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+In this studio, I found out about various STL container like vectors and lists. I had found out about exception dealing with it, and in this workshop 
+Exceptions thrown by the procedure createInstance can be caught by the function loadData(), which can then figure out what went wrong (). The error message that is contained in the exception object can be displayed by the function loadData() once it has caught the exception.
+Checking the return value of the function createInstance provides an additional method for figuring out what went wrong ().
+The record represents an unidentified type of vehicle if the return value is nullptr.
+The record contains erroneous data if the return value is not nullptr.
+ -We are utilising pointers to point to the memory address of the dynamically allocated memory, we must deallocate the memory that was allocated dynamically in our vector.
+We will have a memory leak if we don't deallocate the memory.
+This is due to the memory no longer being used but still being stored in the memory. The program will eventually fail as a result of the Memory eventually becoming full.
+
