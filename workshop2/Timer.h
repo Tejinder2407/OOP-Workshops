@@ -1,12 +1,4 @@
-/*
-    ==================================================
-    Workshop 02: OOP435ZCC
-    ==================================================
-    Name   : Tejinder Singh
-    ID     : 129121216
-    Email  : ktejinder-singh@myseneca.ca
-    Section: ZCC
-*/
+
 
 #ifndef TIMER_H
 #define TIMER_H
