@@ -1,15 +1,4 @@
-// Workshop 1 
-// Wail Mardini - 2022/07/04
-// Cornel - 2022/09/08
-/*
-	==================================================
-	Workshop 01: OOP435ZCC
-	==================================================
-	Name   : Tejinder Singh
-	ID     : 129121216
-	Email  : ktejinder-singh@myseneca.ca
-	Section: ZCC
-*/
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>
