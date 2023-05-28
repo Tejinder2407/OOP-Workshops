@@ -1,12 +1,4 @@
-/*
-    ==================================================
-    Workshop 03: OOP435ZCC
-    ==================================================
-    Name   : Tejinder Singh
-    ID     : 129121216
-    Email  : ktejinder-singh@myseneca.ca
-    Section: ZCC
-*/
+
 
 #include "Dictionary.h"
 namespace sdds
