@@ -1,12 +1,4 @@
-/*
-    ==================================================
-    Workshop 05: OOP435ZCC
-    ==================================================
-    Name   : Tejinder Singh
-    ID     : 129121216
-    Email  : ktejinder-singh@myseneca.ca
-    Section: ZCC
-*/
+
 #include <iomanip>
 #include "Book.h"
 using namespace std;
