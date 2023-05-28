@@ -1,12 +1,4 @@
-/*
-    ==================================================
-    Workshop 02: OOP435ZCC
-    ==================================================
-    Name   : Tejinder Singh
-    ID     : 129121216
-    Email  : ktejinder-singh@myseneca.ca
-    Section: ZCC
-*/
+
 
 #ifndef TENNISLOG_H
 #define TENNISLOG_H
