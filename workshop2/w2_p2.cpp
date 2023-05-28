@@ -1,15 +1,4 @@
-// Workshop 2 - Fall 2022
-// w2_p1.cpp
-// Michael Huang
-/*
-    ==================================================
-    Workshop 02: OOP435ZCC
-    ==================================================
-    Name   : Tejinder Singh
-    ID     : 129121216
-    Email  : ktejinder-singh@myseneca.ca
-    Section: ZCC
-*/
+
 
 
 #include <chrono> // For part 2 experiements
