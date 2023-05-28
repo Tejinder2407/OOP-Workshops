@@ -1,12 +1,4 @@
-/*
-    ==================================================
-    Workshop 01: OOP435ZCC
-    ==================================================
-    Name   : Tejinder Singh
-    ID     : 129121216
-    Email  : ktejinder-singh@myseneca.ca
-    Section: ZCC
-*/
+
 // Header guard
 #ifndef CARADS_H
 #define CARADS_H
