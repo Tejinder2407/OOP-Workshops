@@ -1,6 +1,3 @@
-// Workshop 2 - Fall 2022
-// w2_p1.cpp
-// Michael Huang
 
 
 #include <chrono> // For part 2 experiements
